@@ -42,12 +42,6 @@ var result = calculateWeight(userWeight, planetsName)
 document.getElementById('output').innerHTML = `If you were on ${planetsName}, you would weigh ${result}lbs!` ;
 //console.log("inside handle click ")
 
-
-
 }
-
-
-
-
 
 

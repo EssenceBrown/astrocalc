@@ -1,1 +1,69 @@
 
+    
+    #content{
+  background-image: url(./image/astro.png);
+  height: 900px;
+  width: 1200px; 
+}
+    body{
+      background-image: url(./image/galaxy.jpg);
+    }
+   
+#user-weight{
+  background-color: rgb(91, 220, 243);
+  color: black;
+  font-size: 20px;
+  position: fixed;
+  right: 810px;
+    bottom: 60px;
+    width: 300px;
+}
+    #planets{
+      background-color: rgb(91, 220, 243);
+      color: blueviolet;
+      font-size: 30px;
+      font-weight: bold;
+      height: 50px; 
+    width: 300px;
+    position: fixed;
+    right: 810px;
+    bottom: 100px;
+
+    }
+    button{
+      display: flex;
+      font-size: 19px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-weight: bold;
+background-color: rgb(91, 220, 243);
+color: rgb(89, 10, 163);
+      height: 30px; 
+    width: 100px;
+    position: fixed;
+    right: 910px
+  
+    
+    }
+    option{
+      color: aquamarine;
+      text-shadow: 10px 10px 10px rgb(247, 40, 160);
+      font-family: fantasy;
+      padding-left: 30px;
+      text-align: center;
+      font-size: 50px;
+      padding-top: 60px
+  }
+  #output{
+    color: rgb(224, 236, 48);
+      font-family: fantasy;
+      padding-left: 30px;
+      text-align: center;
+      font-size: 50px;
+      padding-top: 240px
+  }
+
+  /* .back-video{
+    position: absolute;
+    right:0;
+    bottom:0;
+  } */
